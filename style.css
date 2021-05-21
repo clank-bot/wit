@@ -1,0 +1,17 @@
+games{
+    width: 400px;
+    height: 620px;
+}
+games2{
+    width: 400px;
+    height: 620px;
+}
+
+body {
+    text-align: center;
+}
+
+.line {
+    height: 10px;
+    width: 20px;
+}
